@@ -1,3 +1,1 @@
-2023-04-25T01:26:00+08:00
-随机数:4392
-提交次数:2
+This is a repo for SangTech to predict the best combination of PoreSize, Spore, CWST, and figure out which range is cost-efficiently.
